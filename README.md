@@ -6,14 +6,14 @@
 Cleaning, a laborious task which makes people tired. Especially when people think about wall, glass cleaning etc. It can be painful process which makes your hands dirty. In solution to this problem I aimed at building a wall climbing robot which does the job for us. Infact this tech could revolutionize the wall, glass cleaning.
  	 
 # COMPONENTS USED :
-* Arduino UNO  
-* L298D Motor driver 
-* HC-05 Bluetooth Module 
-* Bluetooth RC controller app 
+* Arduino UNO</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Arduino-Uno.jpg" width="400"> 
+* L298D Motor driver</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/L293D-motor-driver.png" width="400"> 
+* HC-05 Bluetooth Module</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="400">
+* Bluetooth RC controller app</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="400"></br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="400"> 
 * 9 V DC motor</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="400">
 * Jumper wires 
-* Wheels 
-* Magnet
+* Wheels</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="400">
+* Magnet</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="400">
 
 # WORKING :
 We aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
@@ -24,7 +24,7 @@ Cleaners can be attached as well as detached from this robot. Hence it serves a 
 
  
  
-## [CIRCUIT DIAGRAM](https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Circuit%20Diagram.jpg) 
+## CIRCUIT DIAGRAM </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="600">
 
  
 
