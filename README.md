@@ -10,7 +10,7 @@ Cleaning, a laborious task which makes people tired. Especially when people thin
 * L298D Motor driver 
 * HC-05 Bluetooth Module 
 * Bluetooth RC controller app 
-* 9 V DC motor <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="48">
+* 9 V DC motor</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="100">
 * Jumper wires 
 * Wheels 
 * Magnet
