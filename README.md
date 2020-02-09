@@ -24,7 +24,7 @@ Cleaners can be attached as well as detached from this robot. Hence it serves a 
 
  
  
-## CIRCUIT DIAGRAM </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="500">
+## CIRCUIT DIAGRAM </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Circuit%20Diagram.jpg" width="500">
 
  
 
