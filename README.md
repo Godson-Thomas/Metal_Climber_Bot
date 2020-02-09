@@ -12,8 +12,10 @@ Cleaning, a laborious task which makes people tired. Especially when people thin
 * Bluetooth RC controller app</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app1.jpg" width="300"></br></br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app2.jpg" width="300"></br></br><img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app3.JPG">
 * 9 V DC motor</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="300"></br>
 * Jumper wires </br>
-* Wheels</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Wheel.jpg" width="300">
-* Magnet </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Round_magnet.jpg" width="300">
+* Wheels</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Wheel.jpg" width="200">
+* Magnet </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Round_magnet.jpg" width="200"></br></br>
+## CIRCUIT DIAGRAM </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Circuit%20Diagram.jpg" width="500">
+
 
 # WORKING :
 We aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
@@ -24,7 +26,6 @@ Cleaners can be attached as well as detached from this robot. Hence it serves a 
 
  
  
-## CIRCUIT DIAGRAM </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Circuit%20Diagram.jpg" width="500">
 
  
 
