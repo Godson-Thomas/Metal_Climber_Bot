@@ -9,12 +9,11 @@ Cleaning, a laborious task which makes people tired. Especially when people thin
 * Arduino UNO</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Arduino-Uno.jpg" width="300"> 
 * L298D Motor driver</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/L293D-motor-driver.png" width="300"> 
 * HC-05 Bluetooth Module</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/HC-05 bluetooth module.jpg" width="300">
-* Bluetooth RC controller app</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app1.jpg" width="300"></br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app2.jpg" width="300"></br>
-<img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app3.jpg" width ="300">
-* 9 V DC motor</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="300">
-* Jumper wires 
+* Bluetooth RC controller app</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app1.jpg" width="300"></br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app2.jpg" width="300"></br><img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/App/app3.jpg" width ="300">
+* 9 V DC motor</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg" width="300"></br>
+* Jumper wires </br>
 * Wheels</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Wheel.jpg" width="300">
-* Magnet</br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Round_magnet.jpg" width="300">
+* Magnet </br> <img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Round_magnet.jpg" width="300">
 
 # WORKING :
 We aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
