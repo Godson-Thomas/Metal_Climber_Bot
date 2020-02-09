@@ -1,53 +1,31 @@
-# ATTENDENCE_SYSTEM based on IOT
-Me and my team pursuing the course of Electronics and Instrumentation Engineering developed an online attendence monitoring system based on IOT under the guidance of Mrs Sreevidya P Menon and our Alumini Mr Arun.
+ 
+ 	 
 
-## COMPONENTS REQUIRED
-* RFID recceiver </br>
-* ESP8266 wifi module </br>
-* Google Firebase Account </br>
-* Web page ( to display the content )
-## WORKING
-Identity tag of students is placed on the RFID receiver and a RFID code is read by the RFID module and the code is processed.
-If the code is valid the ESP8266 sents corresponding data to the Google firebase Database and updates are recorded.
-The web page access the data from the FIREBASE database and accordingly output is displayed.
-Attendence will bw taken every seven Hours.A tag can only be used 7 times a day.
+ 
+# INTRODUCTION :
+Cleaning, a laborious task which makes people tired. Especially when people think about wall, glass cleaning etc. It can be painful process which makes your hands dirty. In solution to this problem I aimed at building a wall climbing robot which does the job for us. Infact this tech could revolutionize the wall, glass cleaning.
+ 	 
+# COMPONENTS USED :
+* Arduino UNO  
+* L298D Motor driver 
+* HC-05 Bluetooth Module 
+* Bluetooth RC controller app 
+* ![9V DC motors](https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/DC_motor.jpg) 
+* Jumper wires 
+* Wheels 
+* Magnet
 
-# INSTALLATION AND SETUP
-## Google Firebase and ESP8266
-* [Arduino IDE](https://www.youtube.com/watch?v=TbHsOgtCMDc) </br>
-* [ESP8266 setup](https://www.youtube.com/watch?v=2DL8FlrBTDs) </br>
-* [Google FIREBASE account creation](https://www.youtube.com/watch?v=DD32pAVpKHA) </br>
-* [Connecting Firebase and ESP8266](https://www.youtube.com/watch?v=VXsKEVcwzpg)
-* [CODE for connecting to Firebase database](https://github.com/Godson-Thomas/IOT_based_Attendence_System/tree/master/SENSING_PART/TAG_code)
+# WORKING :
+We aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
+Moreover  the robot is controlled by a smartphone via  Bluetooth. This robot is capable of recognizing voice, gestures of the controlling person. 
+Further more it can be controlled by using button configurations in the smartphone.</br>
+When buttons are pressed signals such as ‘F’,’B’,’R’,’L’ signals are passed to the Arduino board for processing. Hence correspondingly a high impulse/low impulse are generated from the Arduino board which runs the DC motors.</br> 
+Cleaners can be attached as well as detached from this robot. Hence it serves a good purpose to the cleaning problems. Moreover it is user friendly. 
 
-## Google Firebase and WEBPAGE
-* Create 2 webpages : [LOGIN PAGE](https://github.com/Godson-Thomas/IOT_based_Attendence_System/blob/master/WEBPAGE_CREATION/our_login_page.JPG) and [TABLE](https://github.com/Godson-Thomas/IOT_based_Attendence_System/blob/master/WEBPAGE_CREATION/table.JPG)  Page
-* Create your webpage using [HTML](https://www.w3schools.com/html/default.asp) with details of representing the working Hours of your college.
-* Make your web dynamic by adding [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
-## HOSTING YOUR WEBPAGE TO GOOGLE FIREBASE
-* Step 1 : Install [node.js](https://nodejs.org/en/) on your system.
-* Step 2 : Create a new folder on the desktop
-* Step 3 : create a "public" folder inside it
-* Step 4 : Paste your html login page as "index.html" inside the public folder
-* Step 5 : open command prompt and go to the "new folder" created in the desktop
-* Type: </br>
-$ npm install -g firebase-tools</br>
-$ firebase init</br>
-select your existing project
-* follow the link for more details [Link Here](https://www.youtube.com/watch?v=Gl-qlxfTJHE)
-</br>
-</br>
-NOTE :: CREATE A PROJECT FOR LOGIN PAGE AND HOST IT. </br>:: CREATE ANOTHER PROJECT FOR TABLE AND HOST IT. 
-</br> ::COPY the URL and paste it on the Main_code in the WEBPAGE_CREATION.
+ 
+ 
+## [CIRCUIT DIAGRAM](https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/Circuit%20Diagram.jpg) 
 
-## ACCESSING DATA FROM FIREBASE
-* follow the [this link](https://www.youtube.com/watch?v=zAmrWiVdlec) and refer the [Main_code](https://github.com/Godson-Thomas/IOT_based_Attendence_System/blob/master/WEBPAGE_CREATION/Main_code.html).
+ 
 
-# REGARDS
-## To Mrs Sreevidya P Menon </br>
-## Mr.Arun alumini FISAT EIE
-## TEAM MEMBERS
-* JOHN PAUL</br>
-* GODSON THOMAS</br>
-* DERIN T JOSE</br>
-* AMRITHA M
+         
