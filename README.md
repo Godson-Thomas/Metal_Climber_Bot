@@ -1,5 +1,5 @@
  
-<img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/project.jpg" width="500">  
+<img src="https://github.com/Godson-Thomas/Metal_Climber_Bot/blob/master/Metal_Climber_bot/project.JPG"  width="500">  
 
  
 # INTRODUCTION :
