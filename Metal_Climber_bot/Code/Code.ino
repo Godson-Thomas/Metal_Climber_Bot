@@ -1,3 +1,6 @@
+//  written by : GODSON THOMAS
+
+
 #include<SoftwareSerial.h>
 SoftwareSerial mySerial(0,1);  //RX,TX
 void setup()
