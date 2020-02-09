@@ -18,11 +18,12 @@ Cleaning, a laborious task which makes people tired. Especially when people thin
 
 
 # WORKING :
-We aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
+I aimed at building a wall climbing robot with the vision  for  wall cleaning, iron wall cleaning, glass cleaning etc. This small robot uses Electromagnet which is attached at its bottom for sticking on to iron walls. Code is inserted to the Arduino UNO. 
 Moreover  the robot is controlled by a smartphone via  Bluetooth. This robot is capable of recognizing voice, gestures of the controlling person. 
 Further more it can be controlled by using button configurations in the smartphone.</br>
 When buttons are pressed signals such as ‘F’,’B’,’R’,’L’ signals are passed to the Arduino board for processing. Hence correspondingly a high impulse/low impulse are generated from the Arduino board which runs the DC motors.</br> 
-Cleaners can be attached as well as detached from this robot. Hence it serves a good purpose to the cleaning problems. Moreover it is user friendly. 
+Cleaners can be attached as well as detached from this robot. Hence it serves a good purpose to the cleaning problems. Moreover it is user friendly.</br>
+Hope My idea could bring a change.
 
  
  
