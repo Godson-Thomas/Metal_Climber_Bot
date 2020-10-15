@@ -1,4 +1,4 @@
-//  written by : GODSON THOMAS
+//  Written by : GODSON THOMAS
 
 
 #include<SoftwareSerial.h>
